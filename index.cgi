@@ -1,4 +1,5 @@
 #!/usr/bin/python
+print(""" """)
 print("Content-Type: text/html")
 print("")
 print("<p>Hello! It's me OUM ^_^\n")
